@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# O quanto você demora para achar um papel de parede ideal?
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# AI Wallpaper ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Com este projeto quis demonstrar o quanto as inteligencias artificiais podem nos ajudar em até afazeres comuns do nosso cotidiano. Muitas pessoas assim como eu pasam horas em busca de papel de parede ideal que apresente um visual que nos agrade 100%.
+Neste repositorio exite um slide sobre como uam IA pode facilitar a nossa busca!
+Acesse o link abaixo e decrubra como: 
+
+[![slides](https://img.shields.io/badge/clique-aqui-0087B5?style=for-the-badge&logo=gamma.app&logoColor=white)](https://gamma.app/docs/jpklngqb7pvze7l?following_id=ctk7fv5jrdyvyub&follow_on_start=true) 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Gamma - usado para a criação do slide sobre o tema
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Meu intuito com este projeto é mostrar que as ia's veio para facilitar nossas e fazer com que meras atividades possam ser mais rápidas e satisfatórias, com a juda de uma tecnologia treinada para esta atividade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados com esse projeto foram um slide que aproximem as pessoas das ia's e não tenham medo delas, quis mostrar de uma forma fácil, que até atividades básicas do dia a dia podem se tornar mais rápidas.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Desde sempre vivemos tentando deixar as coisas do nosso jeito e gosto, nem sempre é tão fácil achar pela internet uma imagem que transmita exatamente o que queremos.
 
-### Exemplos e Insigths
+### conecte-se comigo!
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [LINKEDIN](www.linkedin.com/in/celiana-rocha-aa461824a)
+- [E- MAIL](celianarocha223@gmail.com)
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+- [SLIDES GAMMA]([/exemplos/E-BOOK.md](https://gamma.app/docs/jpklngqb7pvze7l?following_id=ctk7fv5jrdyvyub&follow_on_start=true))
+- [GAMMA]([[/exemplos/E-BOOK.md](https://gamma.app/docs/jpklngqb7pvze7l?following_id=ctk7fv5jrdyvyub&follow_on_start=true)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiKjIuSuqCHAxUBpZUCHSPaCr0QFnoECBQQAQ&url=https%3A%2F%2Fgamma.app%2F&usg=AOvVaw199FyXS44lo3YbDxmMUV5H&opi=89978449))
